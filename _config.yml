@@ -3,18 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Fightwings
+title: LYC
 subtitle: '洛云个人博客'
 description: '不屈者难渡人世，给正直者以安眠'
 keywords: No-One
 author: Fightwings
-language: zh-cn
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://noone47.github.io
-root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

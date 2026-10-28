@@ -1,0 +1,21 @@
+{
+  "repository": "Noone47/noone47.github.io",
+  "branch": "main",
+  "message": "Site updated: {{ now(\"YYYY-MM-DD HH:mm:ss\") }}",
+  "enabledPlatforms": [
+    "github"
+  ],
+  "cloudflare": {
+    "accountId": "",
+    "projectName": "",
+    "apiToken": ""
+  },
+  "edgeone": {
+    "projectName": "",
+    "apiToken": "",
+    "env": "production"
+  },
+  "deployType": "github",
+  "lastDeployTime": "2026-10-28T12:04:42.300Z",
+  "token": ""
+}
