@@ -12,7 +12,7 @@
 nav:
   # Navigation bar logo image
   logo:
-  display_title: true
+  display_title: false
   display_post_title: true
   # Whether to fix navigation bar
   fixed: false
@@ -167,6 +167,7 @@ subtitle:
   sub:
       - 人间忽晚,山河已秋
       - 我见青山多妩媚,青山见我当如是
+      - 战争即和平,自由即奴役,无知即力量
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -294,7 +295,7 @@ aside:
       link: https://github.com/Noone47
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: Nothing
   card_recent_post:
     enable: true
     # If set 0 will show all
